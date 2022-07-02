@@ -25,3 +25,14 @@
 |/users      | POST      | Create a new dog register |
 |/users/:id  | PUT/PATCH | Update a specific dog |
 |/users/:id  | DELETE    | Delete a specific dog |
+
+
+| Column1 | This is a long column name | Column3              |                   |
+|--------:|----------------------------|:--------------------:|:------------------|
+|         |                            |                      |                   |
+|         |                            |                      | a value           |
+|         |                            |                      |                   |
+|         |                            | This is a long value | but why?          |
+|         |                            |                      |                   |
+|         |                            |                      | Here is something |
+|         |                            |                      |                   |
