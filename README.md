@@ -1,6 +1,6 @@
 # adoptedYourPet
 
-//ENDPOINTS DOGS
+
 | URL       | VERB      | DESCRIPTION |
 |/dogs      | GET       |  Show a list of all dogs |
 |/dogs/:id  | GET       | Details of a specific dog |
@@ -9,7 +9,7 @@
 |/dogs/:id  | DELETE    | Delete a specific dog |
 
 
-//ENDPOINTS pounds
+
 | URL         | VERB      | DESCRIPTION |
 |/pounds      | GET       |  Show a list of all dogs |
 |/pounds/:id  | GET       | Details of a specific dog |
@@ -18,7 +18,7 @@
 |/pounds/:id  | DELETE    | Delete a specific dog |
 
 
-//ENDPOINTS DOGS
+
 | URL        | VERB      | DESCRIPTION |
 |/users      | GET       |  Show a list of all dogs |
 |/users/:id  | GET       | Details of a specific dog |
