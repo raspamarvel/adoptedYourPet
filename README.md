@@ -1,5 +1,7 @@
 # adopted-Your-Pet
 
+This is the routes that use :
+
 | URL     |            VERB           | Column3              
 |:-------:|:--------------------------:|:--------------------:
 |/dogs   | GET             |  Show a list of all dogs |
