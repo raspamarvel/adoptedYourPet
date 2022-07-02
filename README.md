@@ -27,12 +27,10 @@
 |/users/:id  | DELETE    | Delete a specific dog |
 
 
-| Column1 | This is a long column name | Column3              |                   |
-|--------:|----------------------------|:--------------------:|:------------------|
-|         |                            |                      |                   |
-|         |                            |                      | a value           |
-|         |                            |                      |                   |
-|         |                            | This is a long value | but why?          |
-|         |                            |                      |                   |
-|         |                            |                      | Here is something |
-|         |                            |                      |                   |
+| URL     |            VERB           | Column3              
+|:-------:|:--------------------------:|:--------------------:
+||/dogs   | GET             |  Show a list of all dogs |
+|/dogs/:id| GET             | Details of a specific dog |
+|/dogs    | POST            | Create a new dog register |
+|/dogs/:id| PUT/PATCH       | Update a specific dog |
+|/dogs/:id| DELETE          | Delete a specific dog |
